@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Assignment/vj/src/version2/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Assignment/vj/src/version3/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Assignment/vj/src/version3/input/ChooseOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Assignment/vj/src/version3/input/CmdLineChooseOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Assignment/vj/src/version3/operations/OperationFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Assignment/vj/src/version3/operations/add/student/ExecuteInsertQuery.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Assignment/vj/src/version3/operations/find/student/ChooseFindOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Assignment/vj/src/version3/operations/find/student/CmdLineChooseFindOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Assignment/vj/src/version3/operations/find/student/FindStudentFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Assignment/vj/src/version3/operations/find/student/GetChooseNumber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/cxc/version2/ChooseOperation/CmdLineChooseOperation/CmdLineChooseOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/cxc/version2/ChooseOperation/CmdLineChooseOperation/PrintMessage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/cxc/version2/InvalidOperationException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/cxc/version2/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/cxc/version2/operations/AddNewStudent/ExecuteInsertQuery.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/cxc/version2/operations/GetAllStudent/CmdLineOutput/AgeOutput.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/cxc/version2/operations/GetAllStudent/CmdLineOutput/DefaultOutput.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/cxc/version2/operations/GetAllStudent/CmdLineOutput/IdOutput.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/cxc/version2/operations/GetAllStudent/DisplayOutput.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/cxc/version2/operations/GetAllStudent/QueryForGetAllStudent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/cxc/version2/operations/GetSpecificStudents/ChooseFindOperation/CmdLineChooseFindOperation/CmdLineChooseFindOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/cxc/version2/operations/OperationFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/version3/ChooseOperation/CmdLineChooseOperation/CmdLineChooseOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/version3/ChooseOperation/CmdLineChooseOperation/PrintMessage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/version3/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/version3/operations/AddNewStudent/ExecuteInsertQuery.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/version3/operations/GetAllStudent/CmdLineOutput/AgeOutput.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/version3/operations/GetAllStudent/CmdLineOutput/DefaultOutput.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/version3/operations/GetAllStudent/CmdLineOutput/IdOutput.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/version3/operations/GetAllStudent/DisplayOutput.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/version3/operations/GetAllStudent/QueryForGetAllStudent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/version3/operations/GetSpecificStudents/ChooseFindOperation/CmdLineChooseFindOperation/CmdLineChooseFindOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/version3/operations/OperationFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/version3/version2/ChooseOperation/CmdLineChooseOperation/CmdLineChooseOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/version3/version2/InvalidOperationException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/version3/version2/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/version3/version2/operations/GetAllStudent/CmdLineOutput/AgeOutput.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/version3/version2/operations/GetAllStudent/CmdLineOutput/DefaultOutput.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/version3/version2/operations/GetAllStudent/CmdLineOutput/IdOutput.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/version3/version2/operations/GetAllStudent/DisplayOutput.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/version3/version2/operations/GetAllStudent/QueryForGetAllStudent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/version3/version2/operations/GetSpecificStudents/ChooseFindOperation/CmdLineChooseFindOperation/CmdLineChooseFindOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [Version 3]/src/version3/version2/operations/OperationFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [version 3]/src/version3/ChooseOperation/ChooseOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [version 3]/src/version3/ChooseOperation/CmdLineChooseOperation/CmdLineChooseOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [version 3]/src/version3/CreateConnection/CreateConnection.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [version 3]/src/version3/InvalidOperationException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [version 3]/src/version3/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [version 3]/src/version3/OperationFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [version 3]/src/version3/operations/AddNewStudent/ExecuteInsertQuery.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [version 3]/src/version3/operations/GetAllStudent/CmdLineOutput/Output.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [version 3]/src/version3/operations/GetAllStudent/ExecuteQuery.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [version 3]/src/version3/operations/GetSpecificStudents/ChooseFindOperation/ChooseFindOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [version 3]/src/version3/operations/GetSpecificStudents/ChooseFindOperation/CmdLineChooseFindOperation/GetChooseNumber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [version 3]/src/version3/operations/GetSpecificStudents/ChooseFindOperation/CmdLineChooseFindOperation/PrintChoiceMessage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [version 3]/src/version3/operations/GetSpecificStudents/QueryForSpecificStudent/AddressGetQuery.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Student Management System [version 3]/src/version3/operations/GetSpecificStudents/QueryForSpecificStudent/AgeGetQuery.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/version3/CreateConnection.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/version3/InvalidOperationException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/version3/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/version3/input/ChooseOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/version3/operations/OperationFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/version3/operations/add/student/ExecuteInsertQuery.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/version3/operations/find/student/ChooseFindOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/version3/operations/find/student/CmdLineChooseFindOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/version3/operations/find/student/GetChooseNumber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/version3/operations/find/student/PrintChoiceMessage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/version3/operations/get/allstudent/AddressGetQuery.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/version3/operations/get/allstudent/AgeGetQuery.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/version3/operations/get/allstudent/ExecuteQuery.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/version3/operations/get/allstudent/IdGetQuery.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/version3/operations/get/allstudent/QueryForGetAllStudent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/ChooseOperation/ChooseOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/ChooseOperation/CmdLineChooseOperation/CmdLineChooseOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/ChooseOperation/CmdLineChooseOperation/GetOperationNumber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/CreateConnection.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/CreateConnection/CreateConnection.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/InvalidOperationException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/arg/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/assign/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/assign/input/ChooseOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/assign/operations/OperationFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/input/ChooseOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/input/CmdLineChooseOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/operations/AddNewStudent/CmdLineGetData/AddressGetData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/operations/AddNewStudent/CmdLineGetData/AddressGetDataTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/operations/AddNewStudent/CmdLineGetData/AgeGetData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/operations/AddNewStudent/CmdLineGetData/IdGetData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/operations/AddNewStudent/CmdLineGetData/NameGetData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/operations/AddNewStudent/ExecuteInsertQuery.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/operations/GetAllStudent/CmdLineOutput/CmdLineDisplayOutput.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/operations/GetAllStudent/CmdLineOutput/CmdLineDisplayOutputTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/operations/GetAllStudent/ExecuteQuery.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/operations/GetSpecificStudents/FindStudentFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/operations/OperationFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/operations/add/student/AddressGetData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/operations/add/student/NameGetData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/operations/find/student/ChooseFindOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/operations/find/student/CmdLineChooseFindOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/operations/find/student/FindStudentFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/operations/find/student/GetChooseNumber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/operations/find/student/PrintChoiceMessage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/operations/get/allstudent/AddressGetQuery.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/operations/get/allstudent/AgeGetQuery.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version2/operations/get/allstudent/ExecuteQuery.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/version3/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dsd/src/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/untitled/src/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
