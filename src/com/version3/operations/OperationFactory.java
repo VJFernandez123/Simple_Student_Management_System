@@ -20,6 +20,7 @@ public class OperationFactory {
             ExecuteInsertQuery executeInsertQuery = new ExecuteInsertQuery();
             executeInsertQuery.executeQuery(query);
         }
+
         else if(choice==2) {
             QueryForGetAllStudent queryForGetAllStudent = new QueryForGetAllStudent();
             String query=queryForGetAllStudent.query();
@@ -34,11 +35,6 @@ public class OperationFactory {
 
             FindStudentFactory findStudentFactory = new FindStudentFactory();
             findStudentFactory.operation(findChoice);
-
         }
-
-
-
-
     }
 }

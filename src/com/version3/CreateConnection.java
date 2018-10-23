@@ -8,6 +8,9 @@ import java.sql.SQLException;
 public  class CreateConnection {
     public Connection createConnection(){
         Connection connection=null;
+        String url="jdbc:mysql://localhost:3306/mydata";
+        String user="root";
+        String password="";
 
         try {
             Class.forName("com.mysql.jdbc.Driver");
@@ -16,12 +19,10 @@ public  class CreateConnection {
         }
 
         try {
-            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/mydata", "root", "");
+            connection = DriverManager.getConnection(url, user, password);
         } catch (SQLException e) {
             Logger.logMsg(0,e.getMessage());
         }
-
-
         return(connection);
     }
 }
